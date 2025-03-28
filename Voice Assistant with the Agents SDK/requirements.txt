@@ -2,3 +2,4 @@ openai
 openai-agents
 numpy
 sounddevice
+openai-agents[voice]
