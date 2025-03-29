@@ -4,7 +4,7 @@ Vision: Ask anything about the images!
 
 RAG: Upload PDFs and ask anything using your query!
 
-Agent SDK: Use OpenAi's agents as a customer support bot ans answer them all their queries. 
+Agent SDK: Use OpenAI's agents as a customer support bot and answer all their queries. 
 
 
 
